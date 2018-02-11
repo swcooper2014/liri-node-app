@@ -1,0 +1,452 @@
+User Command: C:\Program Files\nodejs\node.exe,C:\Users\SW Cooper\liri-node-app\liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song "I Want it That Way"
+
+User Command: C:\Program Files\nodejs\node.exe,C:\Users\SW Cooper\liri-node-app\liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: C:\Program Files\nodejs\node.exe,C:\Users\SW Cooper\liri-node-app\liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Fri Feb 02 06:29:26 +0000 2018
+Tweet content: @lighteningdrake The good 'ol RTFM :-].
+------------------------
+Created on: Fri Feb 02 06:27:36 +0000 2018
+Tweet content: It's great to represent @BCBSNC as well at all of these events :-]. https://t.co/wMj67O9lkr
+------------------------
+Created on: Fri Feb 02 06:26:40 +0000 2018
+Tweet content: That's me \ :-] /!! https://t.co/G6x9nKDHbi
+------------------------
+Created on: Tue Jan 23 13:35:28 +0000 2018
+Tweet content: Yeeey I’ll be speaking there :-]! #OpenSource101 #OpenSource https://t.co/Wjuvb08DgB
+------------------------
+Created on: Sun Jan 21 02:58:32 +0000 2018
+Tweet content: RT @UNC: Name something prettier than Chapel Hill covered in snow. We'll wait. 😍 https://t.co/T6bYmwBEab
+------------------------
+Created on: Fri Jan 19 22:32:37 +0000 2018
+Tweet content: Check out this Meetup: RIoT 2018 Kickoff - Blockchain Delivers Security and Efficiency to IoT… https://t.co/Yz4fpQ9JmZ
+------------------------
+Created on: Fri Jan 19 05:24:37 +0000 2018
+Tweet content: @JenWike @JenWike that sounds great! I would love to contribute and will definitely reach back out to you about tha… https://t.co/mddJBlwkh8
+------------------------
+Created on: Thu Jan 18 16:50:55 +0000 2018
+Tweet content: Self-healing skin for robots! Seriously!? https://t.co/joXs1xYmAh
+------------------------
+Created on: Thu Jan 18 06:40:51 +0000 2018
+Tweet content: I am thrilled to be speaking at Open Source 101 on February 17th! Check out the event below and make sure to regist… https://t.co/ixvhV3fVFE
+------------------------
+Created on: Wed Jan 10 01:32:25 +0000 2018
+Tweet content: Teaching SQL injection today... couldn't resist :).
+
+https://t.co/vRyMKVZM7K
+------------------------
+Created on: Tue Jan 09 02:44:16 +0000 2018
+Tweet content: Read it, peeps...
+
+https://t.co/jzYGgCqa8h
+------------------------
+Created on: Tue Jan 02 07:32:48 +0000 2018
+Tweet content: #LifeatBlueCrossNC https://t.co/n2Po11awT9
+------------------------
+Created on: Mon Jan 01 01:02:09 +0000 2018
+Tweet content: RT @UNC: #UNC.edu top stories of 2017 | Carolina alumna Zena Cardman has ventured to some of Earth’s most unique and remote places. Now she…
+------------------------
+Created on: Fri Dec 01 13:55:06 +0000 2017
+Tweet content: Looking forward to checking this out! AWS Cloud9: https://t.co/cyqmy6olKC via @awscloud
+------------------------
+Created on: Fri Nov 24 03:16:20 +0000 2017
+Tweet content: @AR22recruiter Mashed potatoes 😊😊😊
+------------------------
+Created on: Thu Nov 16 07:09:10 +0000 2017
+Tweet content: This guy gives hilarious advice on how to deal with e-mail spammers! Watch for seriously good laugh :-).
+
+https://t.co/dFWBnoqG9H
+------------------------
+Created on: Tue Nov 14 03:03:16 +0000 2017
+Tweet content: @GinnyGhezzo Nice 🤓
+------------------------
+Created on: Tue Nov 14 01:28:03 +0000 2017
+Tweet content: @BrianLangAuthor @GinnyGhezzo You know it!!
+------------------------
+Created on: Tue Nov 14 01:19:39 +0000 2017
+Tweet content: RT @GinnyGhezzo: I had a surprise #blockchain question when presenting at Duke. Thanks to @_angrbrd I had the answer in my backpocket!! #wo…
+------------------------
+Created on: Tue Nov 14 01:19:36 +0000 2017
+Tweet content: @GinnyGhezzo Awesome! What was the question?
+------------------------
+
+User Command: node liri.js spotify-this-song no longer slaves 
+
+User Command: C:\Program Files\nodejs\node.exe,C:\Users\SW Cooper\liri-node-app\liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Sat Feb 10 00:28:02 +0000 2018
+Tweet content: awesome time with #friends
+------------------------
+Created on: Sat Feb 10 00:27:33 +0000 2018
+Tweet content: #fun
+------------------------
+Created on: Sat Feb 10 00:27:21 +0000 2018
+Tweet content: Having fun with friends
+------------------------
+Created on: Sat Feb 10 00:26:12 +0000 2018
+Tweet content: Hey whats up
+------------------------
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Sat Feb 10 17:26:16 +0000 2018
+Tweet content: In class right now #class #coding
+------------------------
+Created on: Sat Feb 10 00:28:02 +0000 2018
+Tweet content: awesome time with #friends
+------------------------
+Created on: Sat Feb 10 00:27:33 +0000 2018
+Tweet content: #fun
+------------------------
+Created on: Sat Feb 10 00:27:21 +0000 2018
+Tweet content: Having fun with friends
+------------------------
+Created on: Sat Feb 10 00:26:12 +0000 2018
+Tweet content: Hey whats up
+------------------------
+
+User Command: C:\Program Files\nodejs\node.exe,C:\Users\SW Cooper\liri-node-app\liri.js,my-tweet
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Sat Feb 10 17:26:16 +0000 2018
+Tweet content: In class right now #class #coding
+------------------------
+Created on: Sat Feb 10 00:28:02 +0000 2018
+Tweet content: awesome time with #friends
+------------------------
+Created on: Sat Feb 10 00:27:33 +0000 2018
+Tweet content: #fun
+------------------------
+Created on: Sat Feb 10 00:27:21 +0000 2018
+Tweet content: Having fun with friends
+------------------------
+Created on: Sat Feb 10 00:26:12 +0000 2018
+Tweet content: Hey whats up
+------------------------
+
+User Command: C:\Program Files\nodejs\node.exe,C:\Users\SW Cooper\liri-node-app\liri.js,movie,this,The Mountain Between Us
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: C:\Program Files\nodejs\node.exe,C:\Users\SW Cooper\liri-node-app\liri.js
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song No Longer Slave 
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Sat Feb 10 17:26:16 +0000 2018
+Tweet content: In class right now #class #coding
+------------------------
+Created on: Sat Feb 10 00:28:02 +0000 2018
+Tweet content: awesome time with #friends
+------------------------
+Created on: Sat Feb 10 00:27:33 +0000 2018
+Tweet content: #fun
+------------------------
+Created on: Sat Feb 10 00:27:21 +0000 2018
+Tweet content: Having fun with friends
+------------------------
+Created on: Sat Feb 10 00:26:12 +0000 2018
+Tweet content: Hey whats up
+------------------------
+
+User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+ERROR: Retrieving user tweets -- [object Object]User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Sat Feb 10 17:26:16 +0000 2018
+Tweet content: In class right now #class #coding
+------------------------
+Created on: Sat Feb 10 00:28:02 +0000 2018
+Tweet content: awesome time with #friends
+------------------------
+Created on: Sat Feb 10 00:27:33 +0000 2018
+Tweet content: #fun
+------------------------
+Created on: Sat Feb 10 00:27:21 +0000 2018
+Tweet content: Having fun with friends
+------------------------
+Created on: Sat Feb 10 00:26:12 +0000 2018
+Tweet content: Hey whats up
+------------------------
+
+User Command: node liri.js movie-this Speed 
+
+ERROR: Retrieving OMDB entry -- nullUser Command: node liri.js spotify-this-song 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: The Sign
+Artist: Ace of Base
+Album: The Sign (US Album) [Remastered]
+Preview Here: https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=f756e4e6410f4aaa8b66817a941b9fb4
+
+User Command: node liri.js spotify-this-song No Longer Slaves 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: No Longer Slaves (Live)
+Artist: Melissa Helser
+Album: We Will Not Be Shaken (Live)
+Preview Here: https://p.scdn.co/mp3-preview/c08087dbcbb1cba5bacf25a7bc1646025e4e1996?cid=f756e4e6410f4aaa8b66817a941b9fb4
+
+User Command: C:\Program Files\nodejs\node.exe,C:\Users\SW Cooper\liri-node-app\liri.js,spofigy-this-song,Sign of the Times
+
+LIRI Response:
+
+Usage:
+    node liri.js my-tweets
+    node liri.js spotify-this-song "<song_name>"
+    node liri.js movie-this "<movie_name>"
+    node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song Sign of the Times 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: Sign of the Times
+Artist: Harry Styles
+Album: Sign of the Times
+Preview Here: https://p.scdn.co/mp3-preview/9801b9239ad1b833f1317574ee55b9d7b8426ff1?cid=f756e4e6410f4aaa8b66817a941b9fb4
+
+User Command: node liri.js movie-this The Mountain Between Us 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: The Mountain Between Us
+Year Released: 06 Oct 2017
+IMBD Rating: 6.4
+Country Produced: USA
+Language: English
+Plot: Stranded after a tragic plane crash, two strangers must forge a connection to survive the extreme elements of a remote snow-covered mountain. When they realize help is not coming, they embark on a perilous journey across the wilderness.
+Actors: Idris Elba, Kate Winslet, Beau Bridges, Dermot Mulroney
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js do-what-it-says
+
+User Command: node liri.js spotify-this-song "I Want it That Way"
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: I Want It That Way
+Artist: Backstreet Boys
+Album: The Hits--Chapter One
+Preview Here: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=f756e4e6410f4aaa8b66817a941b9fb4
+
+User Command: node liri.js my-tweets
+
+LIRI Response:
+
+------------------------
+User Tweets:
+------------------------
+
+Created on: Sun Feb 11 00:52:26 +0000 2018
+Tweet content: What makes you different makes you beautiful
+------------------------
+Created on: Sun Feb 11 00:51:55 +0000 2018
+Tweet content: fun fun fun
+------------------------
+Created on: Sun Feb 11 00:51:49 +0000 2018
+Tweet content: wedding planning
+------------------------
+Created on: Sun Feb 11 00:51:43 +0000 2018
+Tweet content: #awesome
+------------------------
+Created on: Sun Feb 11 00:51:37 +0000 2018
+Tweet content: #working
+------------------------
+Created on: Sat Feb 10 17:26:16 +0000 2018
+Tweet content: In class right now #class #coding
+------------------------
+Created on: Sat Feb 10 00:28:02 +0000 2018
+Tweet content: awesome time with #friends
+------------------------
+Created on: Sat Feb 10 00:27:33 +0000 2018
+Tweet content: #fun
+------------------------
+Created on: Sat Feb 10 00:27:21 +0000 2018
+Tweet content: Having fun with friends
+------------------------
+Created on: Sat Feb 10 00:26:12 +0000 2018
+Tweet content: Hey whats up
+------------------------
+
+User Command: node liri.js spotify-this-song whole lotta woman 
+
+LIRI Response:
+
+------------------------
+Song Information:
+------------------------
+
+Song Name: Whole Lotta Woman
+Artist: Kelly Clarkson
+Album: Meaning Of Life
+Preview Here: https://p.scdn.co/mp3-preview/88a5e172485ea406f00e8adc627862d21ae14d8e?cid=f756e4e6410f4aaa8b66817a941b9fb4
+
+User Command: node liri.js movie-this Now you see me 
+
+User Command: node liri.js movie-this now you see me 
+
+User Command: node liri.js movie-this the mountain between us 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: The Mountain Between Us
+Year Released: 06 Oct 2017
+IMBD Rating: 6.4
+Country Produced: USA
+Language: English
+Plot: Stranded after a tragic plane crash, two strangers must forge a connection to survive the extreme elements of a remote snow-covered mountain. When they realize help is not coming, they embark on a perilous journey across the wilderness.
+Actors: Idris Elba, Kate Winslet, Beau Bridges, Dermot Mulroney
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
+User Command: node liri.js movie-this now you see me 
+
+LIRI Response:
+
+------------------------
+Movie Information:
+------------------------
+
+Movie Title: Now You See Me
+Year Released: 31 May 2013
+IMBD Rating: 7.3
+Country Produced: USA, France
+Language: English, French
+Plot: An F.B.I. Agent, and an Interpol Detective, track a team of illusionists, who pull off bank heists during their performances, and reward their audiences with the money.
+Actors: Jesse Eisenberg, Mark Ruffalo, Woody Harrelson, Isla Fisher
+Rotten Tomatoes Rating: undefined
+Rotten Tomatoes URL: undefined
+
