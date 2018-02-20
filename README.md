@@ -4,21 +4,21 @@ LIRI - Language Interpretation and Recognition Interface
 
 The challenge was to use Node JS to create a LIRI bot, like iPhone's SIRI, but takes in command through Language vs Speech. LIRI is a command line node app that takes in parameters and returns data based on one of four commands:
 
-  my-tweets
+       my-tweets
 
-  spotify-this-song
+       spotify-this-song
 
-  movie-this
+       movie-this
 
-  do-what-it-says
+       do-what-it-says
 
 Getting Started
 
-  Clone down repo.
+      Clone down repo.
 
-  Run command 'npm install' in Terminal or GitBash
-
-  Run command 'node liri.js' or one of the commands below.
+      Run command 'npm install' in Terminal or GitBash
+    
+      Run command 'node liri.js' or one of the commands below.
 
 What Each Command Does
 
