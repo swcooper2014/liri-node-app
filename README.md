@@ -46,15 +46,15 @@ node liri.js movie-this <movie name>: Shows the following information in termina
 
         Language of the movie.
 
-         Plot of the movie.
+        Plot of the movie.
 
-         Actors in the movie.
+        Actors in the movie.
 
-         Rotten Tomatoes Rating.
+        Rotten Tomatoes Rating.
 
-         Rotten Tomatoes URL.
+        Rotten Tomatoes URL.
 
-         Or if no movie is passed through, it will default to "Mr. Nobody"
+        Or if no movie is passed through, it will default to "Mr. Nobody"
 
 node liri.js do-what-it-says: Takes the text from random.txt and runs the song through spotify-this-song command
 
