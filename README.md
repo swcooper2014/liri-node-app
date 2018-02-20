@@ -4,67 +4,60 @@ LIRI - Language Interpretation and Recognition Interface
 
 The challenge was to use Node JS to create a LIRI bot, like iPhone's SIRI, but takes in command through Language vs Speech. LIRI is a command line node app that takes in parameters and returns data based on one of four commands:
 
-my-tweets
+  my-tweets
 
-spotify-this-song
+  spotify-this-song
 
-movie-this
+  movie-this
 
-do-what-it-says
+  do-what-it-says
 
 Getting Started
 
-Clone down repo.
+  Clone down repo.
 
-Run command 'npm install' in Terminal or GitBash
+  Run command 'npm install' in Terminal or GitBash
 
-Run command 'node liri.js' or one of the commands below.
+  Run command 'node liri.js' or one of the commands below.
 
 What Each Command Does
 
-node liri.js my-tweets
+  node liri.js my-tweets: Displays my last 20 tweets and when they were created in terminal/bash window.
 
-Displays my last 20 tweets and when they were created in terminal/bash window.
+  node liri.js spotify-this-song <song name>: Shows the following information about the song in terminal/bash window.
+ 
+        Artist(s)
 
-node liri.js spotify-this-song <song name>
+        The song's name
 
-Shows the following information about the song in terminal/bash window.
+        A preview link of the song from Spotify
 
-Artist(s)
+        The album that the song is from
 
-The song's name
+node liri.js movie-this <movie name>: Shows the following information in terminal/bash.
 
-A preview link of the song from Spotify
+       Title of the movie.
 
-The album that the song is from
+        Year the movie came out.
 
-node liri.js movie-this <movie name>
+        IMDB Rating of the movie.
 
-Shows the following information in terminal/bash.
+        Country where the movie was produced.
 
-Title of the movie.
+        Language of the movie.
 
-Year the movie came out.
+         Plot of the movie.
 
-IMDB Rating of the movie.
+         Actors in the movie.
 
-Country where the movie was produced.
+         Rotten Tomatoes Rating.
 
-Language of the movie.
+         Rotten Tomatoes URL.
 
-Plot of the movie.
+         Or if no movie is passed through, it will default to "Mr. Nobody"
 
-Actors in the movie.
+node liri.js do-what-it-says: Takes the text from random.txt and runs the song through spotify-this-song command
 
-Rotten Tomatoes Rating.
-
-Rotten Tomatoes URL.
-
-Or if no movie is passed through, it will default to "Mr. Nobody"
-
-node liri.js do-what-it-says
-
-Takes the text from random.txt and runs the song through spotify-this-song command
 
 Technolgies used
 
