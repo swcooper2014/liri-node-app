@@ -24,7 +24,7 @@ What Each Command Does
 
   node liri.js my-tweets: Displays my last 20 tweets and when they were created in terminal/bash window.
 
-  node liri.js spotify-this-song <song name>: Shows the following information about the song in terminal/bash window.
+  node liri.js spotify-this-song "song name": Shows the following information about the song in terminal/bash window.
  
         Artist(s)
 
@@ -34,7 +34,7 @@ What Each Command Does
 
         The album that the song is from
 
-node liri.js movie-this <movie name>: Shows the following information in terminal/bash.
+node liri.js movie-this "movie name": Shows the following information in terminal/bash.
 
        Title of the movie.
 
