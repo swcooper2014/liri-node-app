@@ -58,7 +58,7 @@ node liri.js movie-this "movie name": Shows the following information in termina
 
 node liri.js do-what-it-says: Takes the text from random.txt and runs the song through spotify-this-song command
 
-Access Video of working app here: https://drive.google.com/file/d/1HxTIZd2EaVQox4NwIe6rHBcVLYmFJYgV/view?usp=sharing
+Access Video of working app here: https://youtu.be/rcpOeNpcSoA
 
 Technolgies used
 
